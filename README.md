@@ -2,7 +2,7 @@
 
 #### This project is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0)
 
-## Welcome to FFmpegInteropX
+## Original source to FFmpegInteropX
 
 The original repo is located here: https://github.com/ffmpeginteropx/FFmpegInteropX
 

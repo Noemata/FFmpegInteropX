@@ -8,7 +8,7 @@ The original repo is located here: https://github.com/ffmpeginteropx/FFmpegInter
 
 ## Welcome to FFmpegInteropX
 
-I did next to nothing to get this working with UWP and VS2019.  My changes took all of 5 minutes to do.  All credit goes to authors of this library and vcpkg.
+I did next to nothing to get this working with UWP and VS2019.  My changes took all of 5 minutes to do.  All credit goes to the authors of this library and vcpkg.
 
 FFmpegInteropX is an open-source project that aims to provide an easy way to use **FFmpeg** in **Windows 10 UWP Apps**. This allows you to decode a lot of formats that are not natively supported on Windows 10.
 

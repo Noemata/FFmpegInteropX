@@ -68,6 +68,11 @@ Visual Studio 2019 is required.
 * Build solutions
 * Yes, it's that easy!
 
+Note: The only sigificant change to the original repo project was to retarget the C++ solutions, and change the C++ part as follows:
+
+Additional Include Directories to: $(ProjectDir);$(GeneratedFilesDir);$(IntDir);%(AdditionalIncludeDirectories)
+Additoinal #using Directories to: $(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)
+
 ## Credits / contributors
 
 I can't take any credit for filling in dialog boxes :-(

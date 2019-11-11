@@ -42,7 +42,7 @@ FFmpegInteropX is a much **improved fork** of the original [Microsoft project](g
 
 Visual Studio 2019 is required.
 
-- Visual Studio 2019 (15.9.x or higher):
+- Visual Studio 2019 (16.3.x or higher):
   - Select Universal Windows Platform development workload in Installer
   - Select additional components from Installer:
     - Universal Windows Platform tools
@@ -56,7 +56,7 @@ Visual Studio 2019 is required.
 
 - Visual Studio 2019:
   - Select Universal Windows Platform development workload in Installer
-  - Manually install Windows 10 SDK 10.0.15063.0 from SDK archive:
+  - Manually install Windows 10 SDK 10.0.16299.0 from SDK archive for comapatibility with the oldest viable Windows 10 release, priors are a dead end:
     https://developer.microsoft.com/en-us/windows/downloads/sdk-archive
   - [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-US/download/details.aspx?id=48145) (only if you installed yasm 64-bit)
 
